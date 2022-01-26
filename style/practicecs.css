@@ -1,0 +1,89 @@
+body{
+  background-color: bisque;
+}
+
+h1{
+  color: rgb(71, 73, 80);
+  text-align: center;
+}
+
+p{
+  font-family: verdana;
+  font-size: 20px;
+  color: rgb(71, 73, 80);
+}
+
+p.large {
+  text-align: center;
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 300%;
+  color: rgb(192, 42, 42);
+}
+
+p.center {
+  text-align: center;
+}
+/* css code coments */
+
+h1.color {
+background-color: rgb(24, 143, 255);
+color: aliceblue;
+}
+
+p.tomato {
+  background-color: tomato;
+  font-size: 18px;
+  color: aliceblue;
+}
+
+body {
+  background-image: url(../image/juice.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+}
+
+p.dotted {
+  border-style: dotted;
+}
+
+p.dashed {
+  border-style: dashed;
+}
+
+p.solid {
+  border-style: solid;
+}
+
+p.double {
+  border-style: double;
+}
+
+p.groove {
+  border-style: groove;
+}
+
+p.ridge {
+  border-style: ridge;
+}
+
+p.inset {
+  border-style: inset;
+}
+
+p.outset{
+  border-style: outset;
+}
+
+p.none{
+  border-style: none;
+}
+
+p.hidden {
+  border-style: hidden;
+}
+
+p.mix {
+  border-style: dotted dashed solid double;
+}
